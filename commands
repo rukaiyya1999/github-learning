@@ -6,7 +6,7 @@ git config --global user.name "Rukaiyya Nandrekar"
 3. git status
 4. git commit -m "first commit"
 5. git remote add origin https://github.com/rukaiyya1999/github-learning.git
-6. git push -u origin main
-7. git clone reponame
+6. git push origin master
+7. git clone https://github.com/rukaiyya1999/github-learning.git
 8. git pull origin master
 9. git branch -M main
